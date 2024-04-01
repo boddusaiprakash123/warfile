@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+ 
+files:
+  - source:  /root/warfile/
+    destination: /opt/tomcat9/webapps
